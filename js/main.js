@@ -1,6 +1,8 @@
+
 var app = new Vue ({
     el: '#root',
     data: {
-        firstTitle : ' ciao!'
+        firstTitle: ' ciao!',
+        mainImg: 'img/catsnghosts.png'
     }
 })
